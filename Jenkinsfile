@@ -129,16 +129,14 @@ try {
                 }
 
         
-
+*/
     // catching error
 
     catch(error) {
-
-        notifyBuild('FAILED')
 
         throw error;
 
     }
 
 }
-*/
+
